@@ -1,0 +1,25 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "command line logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlheinecke/challenge-10.git"
+  },
+  "author": "Jim Heinecke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlheinecke/challenge-10/issues"
+  },
+  "homepage": "https://github.com/jlheinecke/challenge-10#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
