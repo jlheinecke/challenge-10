@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/jlheinecke/challenge-10#readme",
   "dependencies": {
-    "inquirer": "^9.2.10"
+    "inquirer": "^9.2.10",
+    "open": "^9.1.0"
   },
   "devDependencies": {
     "jest": "^29.6.2"
-  }
+  },
+  "type": "module"
 }
